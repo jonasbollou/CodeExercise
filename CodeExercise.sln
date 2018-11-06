@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExercise", "CodeExercise\CodeExercise.csproj", "{349C5608-C94C-4D37-943B-AF8A014B251B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{8443C017-8225-408A-AC7C-C3ACA5805DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Tests", "WebAPI.Tests\WebAPI.Tests.csproj", "{73F3CF7D-7903-458C-835E-3343419A1588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349C5608-C94C-4D37-943B-AF8A014B251B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349C5608-C94C-4D37-943B-AF8A014B251B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349C5608-C94C-4D37-943B-AF8A014B251B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349C5608-C94C-4D37-943B-AF8A014B251B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8443C017-8225-408A-AC7C-C3ACA5805DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8443C017-8225-408A-AC7C-C3ACA5805DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8443C017-8225-408A-AC7C-C3ACA5805DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8443C017-8225-408A-AC7C-C3ACA5805DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F3CF7D-7903-458C-835E-3343419A1588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F3CF7D-7903-458C-835E-3343419A1588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F3CF7D-7903-458C-835E-3343419A1588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F3CF7D-7903-458C-835E-3343419A1588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61E5ABA-1C09-467E-BE9D-769FD183433F}
+	EndGlobalSection
+EndGlobal
