@@ -13,6 +13,7 @@ namespace CodeExercise
             string result = new helloworldController().Get();
 
             HelperClass.ProcessData(result);
+
         }
     }
 }
